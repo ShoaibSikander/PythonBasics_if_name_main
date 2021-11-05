@@ -1,0 +1,1 @@
+print("This is __main__ of dir1 ...")
